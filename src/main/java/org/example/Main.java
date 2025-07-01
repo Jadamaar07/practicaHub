@@ -26,7 +26,7 @@ public class Main {
                 "       / |   |____)\n" +
                 "       |_/");
 
-
+        System.out.println();
 
     }
 }
